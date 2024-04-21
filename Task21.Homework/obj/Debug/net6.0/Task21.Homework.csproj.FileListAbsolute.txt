@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\bin\Debug\net6.0\Task21.Homework.exe
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\bin\Debug\net6.0\Task21.Homework.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\bin\Debug\net6.0\Task21.Homework.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\bin\Debug\net6.0\Task21.Homework.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\bin\Debug\net6.0\Task21.Homework.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\refint\Task21.Homework.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\Task21.Homework.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task21.Homework\obj\Debug\net6.0\ref\Task21.Homework.dll

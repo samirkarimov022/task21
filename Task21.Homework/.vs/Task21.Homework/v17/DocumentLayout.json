@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task21.homework\\moduls\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF932E1F-021A-42C4-B5E0-4CBFF91F997F}|Task21.Homework.csproj|solutionrelative:moduls\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Meat.cs",
+              "RelativeDocumentMoniker": "Moduls\\Meat.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Meat.cs",
+              "RelativeToolTip": "Moduls\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:09:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\ZooCage.cs",
+              "RelativeDocumentMoniker": "Moduls\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\ZooCage.cs",
+              "RelativeToolTip": "Moduls\\ZooCage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:47:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Grass.cs",
+              "RelativeDocumentMoniker": "Moduls\\Grass.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Grass.cs",
+              "RelativeToolTip": "Moduls\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:09:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Food.cs",
+              "RelativeDocumentMoniker": "Moduls\\Food.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Food.cs",
+              "RelativeToolTip": "Moduls\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:09:06.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Elephant.cs",
+              "RelativeDocumentMoniker": "Moduls\\Elephant.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Elephant.cs",
+              "RelativeToolTip": "Moduls\\Elephant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:08:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Wolf.cs",
+              "RelativeDocumentMoniker": "Moduls\\Wolf.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Wolf.cs",
+              "RelativeToolTip": "Moduls\\Wolf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:08:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Animal.cs",
+              "RelativeDocumentMoniker": "Moduls\\Animal.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Moduls\\Animal.cs",
+              "RelativeToolTip": "Moduls\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:08:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\Task21.Homework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:21.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

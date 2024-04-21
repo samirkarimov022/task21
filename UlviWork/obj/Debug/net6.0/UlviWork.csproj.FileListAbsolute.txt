@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\bin\Debug\net6.0\UlviWork.exe
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\bin\Debug\net6.0\UlviWork.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\bin\Debug\net6.0\UlviWork.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\bin\Debug\net6.0\UlviWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\bin\Debug\net6.0\UlviWork.pdb
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\refint\UlviWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.pdb
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\UlviWork.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\UlviWork\obj\Debug\net6.0\ref\UlviWork.dll
